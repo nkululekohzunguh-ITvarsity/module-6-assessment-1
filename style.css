@@ -1,4 +1,3 @@
-/**********************************************************************/
 /********************univesal style****************************/
 body{
     margin: 0;
@@ -108,7 +107,7 @@ ul.styled{
 }
 ul.styled li{
     border-top: solid 1px #e5e5e5;
-    padding: 14px 0;
+    padding: 14px 0px;
 }
 /********************footer****************************/
 #footer{
@@ -116,7 +115,7 @@ ul.styled li{
     height: 340px;
     background-color: #1e1b1a;
     padding-top: 25px;
-    padding-left: 22px;
+    padding-left: 0px;
     clear: both;
 }
 #footer h2{
@@ -163,7 +162,6 @@ ul.styled li{
     background-color: #16a085;
     padding-top: 55px;
     clear: both;
-    
 }
 #copyright p{
     font-size: 12px;
@@ -171,6 +169,7 @@ ul.styled li{
     text-transform: uppercase;
     color: #ffffff;
 }
+
 /*******************Gallery***********************/
 #gallery img{
     width: 120px;
